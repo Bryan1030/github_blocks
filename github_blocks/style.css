@@ -1,0 +1,88 @@
+.container{
+    background-color:slategrey;
+    width: fit-content;
+    padding:20px;
+    overflow: auto;
+}
+
+h1{
+    color:rgb(94, 0, 0);
+    font-size: 300%;
+    text-align: center;
+    font-family:sans-serif;
+}
+
+.row1{
+    background-color: maroon;
+    height: 300px;
+    width: 1460px; 
+    display:flex;
+    margin: 25px 200px;
+    justify-content: space-between;
+}
+
+.yeswecode{
+    margin: 20px;
+}
+
+.dojocat{
+    margin: 20px;
+}
+
+.techcat{
+    margin: 20px;
+}
+
+.row2{
+    background-color: firebrick;
+    height: 300px;
+    width: 1460px;
+    display:flex;
+    margin: 20px 200px;
+    justify-content: space-evenly;
+}
+
+.footballcat{
+    margin: 20px;
+}
+
+.obiwan{
+    margin:20px;
+}
+
+.row3{
+    background-color:tomato;
+    height: 300px;
+    width: 1460px; 
+    display:flex;
+    margin: 25px 200px 0px 200px;
+    justify-content: space-between;
+}
+
+.investigator{
+    margin: 20px;
+}
+
+.santa{
+    margin: 20px;
+}
+
+.skate{
+    margin: 20px;
+}
+
+.githublink{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+h2{
+    color: orange;
+}
+
+a{
+    color:orange;
+    display: inline;
+    margin-top: 25px;
+}
